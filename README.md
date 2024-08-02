@@ -1,17 +1,17 @@
-# Alireza Kavoosi
+# <span style="color:blue">Alireza Kavoosi</span>
 M.Sc. Data Analytics Student
 
 College of  Industrial Engineering -University of Tehran (UT)
 
-# BIOGRAPHY
+## <span style="color:blue">BIOGRAPHY</span>
 My academic journey began with a deep focus on mathematics and statistics, I am currently studying as a graduate student in data analytics at Tehran University, where my main research is on deep learning and reinforcement learning.
 
-# RESEARCH INTEREST
+## <span style="color:blue">RESEARCH INTEREST</span>
 * Reinforcement learning
 * Deep learning
 * Supply chain management
 
-# ACADEMIC PROJECTS
+## <span style="color:blue">ACADEMIC PROJECTS</span>
  **Alireza kavoosi**, Alireza Parvardeh, "Modeling Dairy Supply Chains: Analyzing Demand and Recession Effects Through System Dynamic", Jul 2024
  * Developed a system dynamics model using GDP variables to optimize dairy supply chain operations.
 
@@ -27,7 +27,7 @@ My academic journey began with a deep focus on mathematics and statistics, I am 
 * The Process and Challenges of using machine learning Algorithms for Cost Estimation.
 * This project was funded by Sapco company
 
-# Teaching Assistant
+## <span style="color:blue">Teaching Assistant</span>
  linear algebra, University of Tehran, 2024
 
  Engineering Mathematics II, Kharazmi University, 2023
